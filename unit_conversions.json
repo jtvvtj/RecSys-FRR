@@ -1,0 +1,699 @@
+{
+  "source": "https://www.food.com/library/units-converter",
+  "description": "All conversion combinations from the page, with values as displayed (JS Math.round to 3 decimals)",
+  "categories": {
+    "liquid": {
+      "section": "Liquid Conversions",
+      "units": [
+        "tsp",
+        "Tbs",
+        "fl-oz",
+        "cup",
+        "pnt",
+        "qt",
+        "gal",
+        "ml",
+        "l"
+      ],
+      "unit_names": {
+        "tsp": "Teaspoon",
+        "Tbs": "Tablespoon",
+        "fl-oz": "Fluid Ounce",
+        "cup": "Cup",
+        "pnt": "Pint",
+        "qt": "Quart",
+        "gal": "Gallon",
+        "ml": "Milliliter",
+        "l": "Liter"
+      },
+      "conversions": [
+        {
+          "from": "tsp",
+          "from_name": "Teaspoon",
+          "to": "Tbs",
+          "to_name": "Tablespoon",
+          "factor": 0.333
+        },
+        {
+          "from": "tsp",
+          "from_name": "Teaspoon",
+          "to": "fl-oz",
+          "to_name": "Fluid Ounce",
+          "factor": 0.167
+        },
+        {
+          "from": "tsp",
+          "from_name": "Teaspoon",
+          "to": "cup",
+          "to_name": "Cup",
+          "factor": 0.021
+        },
+        {
+          "from": "tsp",
+          "from_name": "Teaspoon",
+          "to": "pnt",
+          "to_name": "Pint",
+          "factor": 0.01
+        },
+        {
+          "from": "tsp",
+          "from_name": "Teaspoon",
+          "to": "qt",
+          "to_name": "Quart",
+          "factor": 0.005
+        },
+        {
+          "from": "tsp",
+          "from_name": "Teaspoon",
+          "to": "gal",
+          "to_name": "Gallon",
+          "factor": 0.001
+        },
+        {
+          "from": "tsp",
+          "from_name": "Teaspoon",
+          "to": "ml",
+          "to_name": "Milliliter",
+          "factor": 4.929
+        },
+        {
+          "from": "tsp",
+          "from_name": "Teaspoon",
+          "to": "l",
+          "to_name": "Liter",
+          "factor": 0.005
+        },
+        {
+          "from": "Tbs",
+          "from_name": "Tablespoon",
+          "to": "tsp",
+          "to_name": "Teaspoon",
+          "factor": 3.0
+        },
+        {
+          "from": "Tbs",
+          "from_name": "Tablespoon",
+          "to": "fl-oz",
+          "to_name": "Fluid Ounce",
+          "factor": 0.5
+        },
+        {
+          "from": "Tbs",
+          "from_name": "Tablespoon",
+          "to": "cup",
+          "to_name": "Cup",
+          "factor": 0.063
+        },
+        {
+          "from": "Tbs",
+          "from_name": "Tablespoon",
+          "to": "pnt",
+          "to_name": "Pint",
+          "factor": 0.031
+        },
+        {
+          "from": "Tbs",
+          "from_name": "Tablespoon",
+          "to": "qt",
+          "to_name": "Quart",
+          "factor": 0.016
+        },
+        {
+          "from": "Tbs",
+          "from_name": "Tablespoon",
+          "to": "gal",
+          "to_name": "Gallon",
+          "factor": 0.004
+        },
+        {
+          "from": "Tbs",
+          "from_name": "Tablespoon",
+          "to": "ml",
+          "to_name": "Milliliter",
+          "factor": 14.787
+        },
+        {
+          "from": "Tbs",
+          "from_name": "Tablespoon",
+          "to": "l",
+          "to_name": "Liter",
+          "factor": 0.015
+        },
+        {
+          "from": "fl-oz",
+          "from_name": "Fluid Ounce",
+          "to": "tsp",
+          "to_name": "Teaspoon",
+          "factor": 6.0
+        },
+        {
+          "from": "fl-oz",
+          "from_name": "Fluid Ounce",
+          "to": "Tbs",
+          "to_name": "Tablespoon",
+          "factor": 2.0
+        },
+        {
+          "from": "fl-oz",
+          "from_name": "Fluid Ounce",
+          "to": "cup",
+          "to_name": "Cup",
+          "factor": 0.125
+        },
+        {
+          "from": "fl-oz",
+          "from_name": "Fluid Ounce",
+          "to": "pnt",
+          "to_name": "Pint",
+          "factor": 0.063
+        },
+        {
+          "from": "fl-oz",
+          "from_name": "Fluid Ounce",
+          "to": "qt",
+          "to_name": "Quart",
+          "factor": 0.031
+        },
+        {
+          "from": "fl-oz",
+          "from_name": "Fluid Ounce",
+          "to": "gal",
+          "to_name": "Gallon",
+          "factor": 0.008
+        },
+        {
+          "from": "fl-oz",
+          "from_name": "Fluid Ounce",
+          "to": "ml",
+          "to_name": "Milliliter",
+          "factor": 29.574
+        },
+        {
+          "from": "fl-oz",
+          "from_name": "Fluid Ounce",
+          "to": "l",
+          "to_name": "Liter",
+          "factor": 0.03
+        },
+        {
+          "from": "cup",
+          "from_name": "Cup",
+          "to": "tsp",
+          "to_name": "Teaspoon",
+          "factor": 48.0
+        },
+        {
+          "from": "cup",
+          "from_name": "Cup",
+          "to": "Tbs",
+          "to_name": "Tablespoon",
+          "factor": 16.0
+        },
+        {
+          "from": "cup",
+          "from_name": "Cup",
+          "to": "fl-oz",
+          "to_name": "Fluid Ounce",
+          "factor": 8.0
+        },
+        {
+          "from": "cup",
+          "from_name": "Cup",
+          "to": "pnt",
+          "to_name": "Pint",
+          "factor": 0.5
+        },
+        {
+          "from": "cup",
+          "from_name": "Cup",
+          "to": "qt",
+          "to_name": "Quart",
+          "factor": 0.25
+        },
+        {
+          "from": "cup",
+          "from_name": "Cup",
+          "to": "gal",
+          "to_name": "Gallon",
+          "factor": 0.063
+        },
+        {
+          "from": "cup",
+          "from_name": "Cup",
+          "to": "ml",
+          "to_name": "Milliliter",
+          "factor": 236.588
+        },
+        {
+          "from": "cup",
+          "from_name": "Cup",
+          "to": "l",
+          "to_name": "Liter",
+          "factor": 0.237
+        },
+        {
+          "from": "pnt",
+          "from_name": "Pint",
+          "to": "tsp",
+          "to_name": "Teaspoon",
+          "factor": 96.0
+        },
+        {
+          "from": "pnt",
+          "from_name": "Pint",
+          "to": "Tbs",
+          "to_name": "Tablespoon",
+          "factor": 32.0
+        },
+        {
+          "from": "pnt",
+          "from_name": "Pint",
+          "to": "fl-oz",
+          "to_name": "Fluid Ounce",
+          "factor": 16.0
+        },
+        {
+          "from": "pnt",
+          "from_name": "Pint",
+          "to": "cup",
+          "to_name": "Cup",
+          "factor": 2.0
+        },
+        {
+          "from": "pnt",
+          "from_name": "Pint",
+          "to": "qt",
+          "to_name": "Quart",
+          "factor": 0.5
+        },
+        {
+          "from": "pnt",
+          "from_name": "Pint",
+          "to": "gal",
+          "to_name": "Gallon",
+          "factor": 0.125
+        },
+        {
+          "from": "pnt",
+          "from_name": "Pint",
+          "to": "ml",
+          "to_name": "Milliliter",
+          "factor": 473.176
+        },
+        {
+          "from": "pnt",
+          "from_name": "Pint",
+          "to": "l",
+          "to_name": "Liter",
+          "factor": 0.473
+        },
+        {
+          "from": "qt",
+          "from_name": "Quart",
+          "to": "tsp",
+          "to_name": "Teaspoon",
+          "factor": 192.0
+        },
+        {
+          "from": "qt",
+          "from_name": "Quart",
+          "to": "Tbs",
+          "to_name": "Tablespoon",
+          "factor": 64.0
+        },
+        {
+          "from": "qt",
+          "from_name": "Quart",
+          "to": "fl-oz",
+          "to_name": "Fluid Ounce",
+          "factor": 32.0
+        },
+        {
+          "from": "qt",
+          "from_name": "Quart",
+          "to": "cup",
+          "to_name": "Cup",
+          "factor": 4.0
+        },
+        {
+          "from": "qt",
+          "from_name": "Quart",
+          "to": "pnt",
+          "to_name": "Pint",
+          "factor": 2.0
+        },
+        {
+          "from": "qt",
+          "from_name": "Quart",
+          "to": "gal",
+          "to_name": "Gallon",
+          "factor": 0.25
+        },
+        {
+          "from": "qt",
+          "from_name": "Quart",
+          "to": "ml",
+          "to_name": "Milliliter",
+          "factor": 946.353
+        },
+        {
+          "from": "qt",
+          "from_name": "Quart",
+          "to": "l",
+          "to_name": "Liter",
+          "factor": 0.946
+        },
+        {
+          "from": "gal",
+          "from_name": "Gallon",
+          "to": "tsp",
+          "to_name": "Teaspoon",
+          "factor": 768.0
+        },
+        {
+          "from": "gal",
+          "from_name": "Gallon",
+          "to": "Tbs",
+          "to_name": "Tablespoon",
+          "factor": 256.0
+        },
+        {
+          "from": "gal",
+          "from_name": "Gallon",
+          "to": "fl-oz",
+          "to_name": "Fluid Ounce",
+          "factor": 128.0
+        },
+        {
+          "from": "gal",
+          "from_name": "Gallon",
+          "to": "cup",
+          "to_name": "Cup",
+          "factor": 16.0
+        },
+        {
+          "from": "gal",
+          "from_name": "Gallon",
+          "to": "pnt",
+          "to_name": "Pint",
+          "factor": 8.0
+        },
+        {
+          "from": "gal",
+          "from_name": "Gallon",
+          "to": "qt",
+          "to_name": "Quart",
+          "factor": 4.0
+        },
+        {
+          "from": "gal",
+          "from_name": "Gallon",
+          "to": "ml",
+          "to_name": "Milliliter",
+          "factor": 3785.412
+        },
+        {
+          "from": "gal",
+          "from_name": "Gallon",
+          "to": "l",
+          "to_name": "Liter",
+          "factor": 3.785
+        },
+        {
+          "from": "ml",
+          "from_name": "Milliliter",
+          "to": "tsp",
+          "to_name": "Teaspoon",
+          "factor": 0.203
+        },
+        {
+          "from": "ml",
+          "from_name": "Milliliter",
+          "to": "Tbs",
+          "to_name": "Tablespoon",
+          "factor": 0.068
+        },
+        {
+          "from": "ml",
+          "from_name": "Milliliter",
+          "to": "fl-oz",
+          "to_name": "Fluid Ounce",
+          "factor": 0.034
+        },
+        {
+          "from": "ml",
+          "from_name": "Milliliter",
+          "to": "cup",
+          "to_name": "Cup",
+          "factor": 0.004
+        },
+        {
+          "from": "ml",
+          "from_name": "Milliliter",
+          "to": "pnt",
+          "to_name": "Pint",
+          "factor": 0.002
+        },
+        {
+          "from": "ml",
+          "from_name": "Milliliter",
+          "to": "qt",
+          "to_name": "Quart",
+          "factor": 0.001
+        },
+        {
+          "from": "ml",
+          "from_name": "Milliliter",
+          "to": "gal",
+          "to_name": "Gallon",
+          "factor": 0.0
+        },
+        {
+          "from": "ml",
+          "from_name": "Milliliter",
+          "to": "l",
+          "to_name": "Liter",
+          "factor": 0.001
+        },
+        {
+          "from": "l",
+          "from_name": "Liter",
+          "to": "tsp",
+          "to_name": "Teaspoon",
+          "factor": 202.884
+        },
+        {
+          "from": "l",
+          "from_name": "Liter",
+          "to": "Tbs",
+          "to_name": "Tablespoon",
+          "factor": 67.628
+        },
+        {
+          "from": "l",
+          "from_name": "Liter",
+          "to": "fl-oz",
+          "to_name": "Fluid Ounce",
+          "factor": 33.814
+        },
+        {
+          "from": "l",
+          "from_name": "Liter",
+          "to": "cup",
+          "to_name": "Cup",
+          "factor": 4.227
+        },
+        {
+          "from": "l",
+          "from_name": "Liter",
+          "to": "pnt",
+          "to_name": "Pint",
+          "factor": 2.113
+        },
+        {
+          "from": "l",
+          "from_name": "Liter",
+          "to": "qt",
+          "to_name": "Quart",
+          "factor": 1.057
+        },
+        {
+          "from": "l",
+          "from_name": "Liter",
+          "to": "gal",
+          "to_name": "Gallon",
+          "factor": 0.264
+        },
+        {
+          "from": "l",
+          "from_name": "Liter",
+          "to": "ml",
+          "to_name": "Milliliter",
+          "factor": 1000.0
+        }
+      ],
+      "total_combinations": 72
+    },
+    "weight": {
+      "section": "Weight Conversions",
+      "units": [
+        "oz",
+        "lb",
+        "g",
+        "kg"
+      ],
+      "unit_names": {
+        "oz": "Ounce",
+        "lb": "Pound",
+        "g": "Gram",
+        "kg": "Kilogram"
+      },
+      "conversions": [
+        {
+          "from": "oz",
+          "from_name": "Ounce",
+          "to": "lb",
+          "to_name": "Pound",
+          "factor": 0.063
+        },
+        {
+          "from": "oz",
+          "from_name": "Ounce",
+          "to": "g",
+          "to_name": "Gram",
+          "factor": 28.35
+        },
+        {
+          "from": "oz",
+          "from_name": "Ounce",
+          "to": "kg",
+          "to_name": "Kilogram",
+          "factor": 0.028
+        },
+        {
+          "from": "lb",
+          "from_name": "Pound",
+          "to": "oz",
+          "to_name": "Ounce",
+          "factor": 16.0
+        },
+        {
+          "from": "lb",
+          "from_name": "Pound",
+          "to": "g",
+          "to_name": "Gram",
+          "factor": 453.592
+        },
+        {
+          "from": "lb",
+          "from_name": "Pound",
+          "to": "kg",
+          "to_name": "Kilogram",
+          "factor": 0.454
+        },
+        {
+          "from": "g",
+          "from_name": "Gram",
+          "to": "oz",
+          "to_name": "Ounce",
+          "factor": 0.035
+        },
+        {
+          "from": "g",
+          "from_name": "Gram",
+          "to": "lb",
+          "to_name": "Pound",
+          "factor": 0.002
+        },
+        {
+          "from": "g",
+          "from_name": "Gram",
+          "to": "kg",
+          "to_name": "Kilogram",
+          "factor": 0.001
+        },
+        {
+          "from": "kg",
+          "from_name": "Kilogram",
+          "to": "oz",
+          "to_name": "Ounce",
+          "factor": 35.274
+        },
+        {
+          "from": "kg",
+          "from_name": "Kilogram",
+          "to": "lb",
+          "to_name": "Pound",
+          "factor": 2.205
+        },
+        {
+          "from": "kg",
+          "from_name": "Kilogram",
+          "to": "g",
+          "to_name": "Gram",
+          "factor": 1000.0
+        }
+      ],
+      "total_combinations": 12
+    },
+    "temperature": {
+      "section": "Temperature Conversions",
+      "units": [
+        "F",
+        "C"
+      ],
+      "unit_names": {
+        "F": "Fahrenheit",
+        "C": "Celsius"
+      },
+      "conversions": [
+        {
+          "from": "F",
+          "from_name": "Fahrenheit",
+          "to": "C",
+          "to_name": "Celsius",
+          "formula": "C = (F - 32) × 5/9",
+          "factor": -17.222
+        },
+        {
+          "from": "C",
+          "from_name": "Celsius",
+          "to": "F",
+          "to_name": "Fahrenheit",
+          "formula": "F = C × 9/5 + 32",
+          "factor": 33.8
+        }
+      ],
+      "total_combinations": 2
+    },
+    "length": {
+      "section": "Length Conversions",
+      "units": [
+        "in",
+        "cm"
+      ],
+      "unit_names": {
+        "in": "Inch",
+        "cm": "Centimeter"
+      },
+      "conversions": [
+        {
+          "from": "in",
+          "from_name": "Inch",
+          "to": "cm",
+          "to_name": "Centimeter",
+          "factor": 2.54
+        },
+        {
+          "from": "cm",
+          "from_name": "Centimeter",
+          "to": "in",
+          "to_name": "Inch",
+          "factor": 0.394
+        }
+      ],
+      "total_combinations": 2
+    }
+  },
+  "total_combinations": 88
+}
