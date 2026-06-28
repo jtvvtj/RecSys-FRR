@@ -1,0 +1,123 @@
+======================================================================
+EJEMPLO: 10 usuarios aleatorios — recomendaciones híbridas
+======================================================================
+
+Usuario 264991 | Cluster: Quick Breads | Diversidad: 0.70 | Novedad: 0.00
+   1. Kittencal's Moist Cheddar-Garlic Oven Fried C | Chicken Breast            | [2 sello(s)]
+   2. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+   3. &quot;Whatever Floats Your Boat&quot; Brownie | Bar Cookie                | [3 sello(s)]
+   4. Crock-Pot Chicken With Black Beans &amp; Crea | One Dish Meal             | [saludable]
+   5. Yes, Virginia There is a Great Meatloaf       | Meatloaf                  | [2 sello(s)]
+   6. Oatmeal Raisin Cookies                        | Drop Cookies              | [3 sello(s)]
+   7. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+   8. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]
+   9. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+  10. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+
+Usuario 52198 | Cluster: Dessert | Diversidad: 0.70 | Novedad: 0.10
+   1. Oatmeal Raisin Cookies                        | Drop Cookies              | [3 sello(s)]
+   2. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+   3. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+   4. Yes, Virginia There is a Great Meatloaf       | Meatloaf                  | [2 sello(s)]
+   5. Crock-Pot Chicken With Black Beans &amp; Crea | One Dish Meal             | [saludable]
+   6. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]
+   7. &quot;Whatever Floats Your Boat&quot; Brownie | Bar Cookie                | [3 sello(s)]
+   8. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+   9. Chocolate Almond Tiramisu Crepes              | Dessert                   | [saludable]
+  10. Kittencal's Moist Cheddar-Garlic Oven Fried C | Chicken Breast            | [2 sello(s)]
+
+Usuario 843107 | Cluster: Breads | Diversidad: 0.90 | Novedad: 0.20
+   1. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+   2. Creamy Burrito Casserole                      | Meat                      | [1 sello(s)]
+   3. Buffalo Chicken Dip                           | < 60 Mins                 | [3 sello(s)]
+   4. Reeses Squares - 5 Ingredients &amp; No Bake  | Bar Cookie                | [3 sello(s)]
+   5. Gluten Free Pizza Dough                       | Breads                    | [saludable]
+   6. Pizza Dough                                   | Breads                    | [saludable]
+   7. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+   8. Crock Pot Whole Chicken                       | Whole Chicken             | [1 sello(s)]
+   9. Easy and Tasty Barbecue Chicken Sandwiches in | Lunch/Snacks              | [2 sello(s)]
+  10. Chicken Lazone                                | Chicken                   | [1 sello(s)]
+
+Usuario 719929 | Cluster: Lunch/Snacks | Diversidad: 0.60 | Novedad: 0.00
+   1. Oatmeal Raisin Cookies                        | Drop Cookies              | [3 sello(s)]
+   2. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+   3. Oven-Fried Chicken Chimichangas               | One Dish Meal             | [2 sello(s)]
+   4. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]
+   5. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+   6. Crock-Pot Chicken With Black Beans &amp; Crea | One Dish Meal             | [saludable]
+   7. &quot;Whatever Floats Your Boat&quot; Brownie | Bar Cookie                | [3 sello(s)]
+   8. Kittencal's Moist Cheddar-Garlic Oven Fried C | Chicken Breast            | [2 sello(s)]
+   9. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+  10. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+
+Usuario 633590 | Cluster: Bar Cookie | Diversidad: 0.70 | Novedad: 0.00
+   1. Yes, Virginia There is a Great Meatloaf       | Meatloaf                  | [2 sello(s)]
+   2. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+   3. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]
+   4. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+   5. Kittencal's Moist Cheddar-Garlic Oven Fried C | Chicken Breast            | [2 sello(s)]
+   6. Crock-Pot Chicken With Black Beans &amp; Crea | One Dish Meal             | [saludable]
+   7. Pancakes                                      | Breakfast                 | [2 sello(s)]
+   8. Oatmeal Raisin Cookies                        | Drop Cookies              | [3 sello(s)]
+   9. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+  10. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+
+Usuario 312081 | Cluster: Chicken Breast | Diversidad: 0.70 | Novedad: 0.10
+   1. Oatmeal Raisin Cookies                        | Drop Cookies              | [3 sello(s)]
+   2. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+   3. Kittencal's Moist Cheddar-Garlic Oven Fried C | Chicken Breast            | [2 sello(s)]
+   4. Pancakes                                      | Breakfast                 | [2 sello(s)]
+   5. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+   6. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+   7. Yes, Virginia There is a Great Meatloaf       | Meatloaf                  | [2 sello(s)]
+   8. Crock Pot Broccoli Cheese Chicken             | Chicken Breast            | [saludable]
+   9. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]
+  10. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+
+Usuario 217653 | Cluster: Sauces | Diversidad: 0.90 | Novedad: 0.00
+   1. Roasted Brussels Sprouts!                     | Vegetable                 | [saludable]
+   2. Mexican Rice                                  | Long Grain Rice           | [1 sello(s)]
+   3. Pork Chops Yum-Yum                            | Pork                      | [4 sello(s)]
+   4. Yes, Virginia There is a Great Meatloaf       | Meatloaf                  | [2 sello(s)]
+   5. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]
+   6. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+   7. Japanese Mum's Chicken                        | Chicken Thigh & Leg       | [1 sello(s)]
+   8. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+   9. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+  10. Oven-Fried Chicken Chimichangas               | One Dish Meal             | [2 sello(s)]
+
+Usuario 2002376640 | Cluster: Dessert | Diversidad: 0.80 | Novedad: 0.10
+   1. &quot;Whatever Floats Your Boat&quot; Brownie | Bar Cookie                | [3 sello(s)]
+   2. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+   3. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+   4. Crock-Pot Chicken With Black Beans &amp; Crea | One Dish Meal             | [saludable]
+   5. Banana Banana Bread                           | Quick Breads              | [3 sello(s)]
+   6. Highland Snow                                 | Dessert                   | [saludable]
+   7. Oatmeal Raisin Cookies                        | Drop Cookies              | [3 sello(s)]
+   8. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]
+   9. Chicken Lazone                                | Chicken                   | [1 sello(s)]
+  10. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+
+Usuario 112354 | Cluster: Chicken | Diversidad: 0.70 | Novedad: 0.00
+   1. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+   2. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+   3. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+   4. Oatmeal Raisin Cookies                        | Drop Cookies              | [3 sello(s)]
+   5. Crock-Pot Chicken With Black Beans &amp; Crea | One Dish Meal             | [saludable]
+   6. &quot;Whatever Floats Your Boat&quot; Brownie | Bar Cookie                | [3 sello(s)]
+   7. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]
+   8. Kittencal's Moist Cheddar-Garlic Oven Fried C | Chicken Breast            | [2 sello(s)]
+   9. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+  10. Yes, Virginia There is a Great Meatloaf       | Meatloaf                  | [2 sello(s)]
+
+Usuario 1644988 | Cluster: One Dish Meal | Diversidad: 0.60 | Novedad: 0.30
+   1. Japanese Mum's Chicken                        | Chicken Thigh & Leg       | [1 sello(s)]
+   2. &quot;Whatever Floats Your Boat&quot; Brownie | Bar Cookie                | [3 sello(s)]
+   3. Yes, Virginia There is a Great Meatloaf       | Meatloaf                  | [2 sello(s)]
+   4. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+   5. Crock-Pot Chicken With Black Beans &amp; Crea | One Dish Meal             | [saludable]
+   6. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+   7. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+   8. Chicken and Broccoli Pasta                    | One Dish Meal             | [saludable]
+   9. Kittencal's Moist Cheddar-Garlic Oven Fried C | Chicken Breast            | [2 sello(s)]
+  10. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]

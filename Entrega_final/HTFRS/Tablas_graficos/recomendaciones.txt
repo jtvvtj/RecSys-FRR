@@ -1,0 +1,123 @@
+======================================================================
+EJEMPLO: 10 usuarios aleatorios — recomendaciones híbridas (γ=0.2)
+======================================================================
+
+Usuario 1946947 | Cluster: Greens | Diversidad: 0.80 | Novedad: 0.00
+   1. Yes, Virginia There is a Great Meatloaf       | Meatloaf                  | [2 sello(s)]
+   2. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]
+   3. &quot;Whatever Floats Your Boat&quot; Brownie | Bar Cookie                | [3 sello(s)]
+   4. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+   5. Pancakes                                      | Breakfast                 | [2 sello(s)]
+   6. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+   7. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+   8. Oatmeal Raisin Cookies                        | Drop Cookies              | [3 sello(s)]
+   9. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+  10. Crock-Pot Chicken With Black Beans &amp; Crea | One Dish Meal             | [saludable]
+
+Usuario 713743 | Cluster: Dessert | Diversidad: 0.40 | Novedad: 0.00
+   1. Dagmar's Orange Cake                          | Dessert                   | [3 sello(s)]
+   2. Crock-Pot Chicken With Black Beans &amp; Crea | One Dish Meal             | [saludable]
+   3. Classic Chicago Public School Cafeteria Cooki | Dessert                   | [2 sello(s)]
+   4. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+   5. Greek Yogurt Frosting                         | Dessert                   | [2 sello(s)]
+   6. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+   7. Chocolate Tube Cake                           | Dessert                   | [2 sello(s)]
+   8. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+   9. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+  10. Amazing Lemon Cheesecake Bars                 | Dessert                   | [2 sello(s)]
+
+Usuario 786683 | Cluster: Salad Dressings | Diversidad: 0.40 | Novedad: 0.00
+   1. Creamy Vinaigrette                            | Salad Dressings           | [1 sello(s)]
+   2. Buttermilk Dressing                           | Salad Dressings           | [1 sello(s)]
+   3. Ginger-Marinated Tuna Steaks                  | Tuna                      | [saludable]
+   4. Lemon Garlic Dressing -Mediterranean          | Salad Dressings           | [3 sello(s)]
+   5. Russian Salad Dressing                        | Salad Dressings           | [4 sello(s)]
+   6. Linda's Asian Salmon                          | Asian                     | [saludable]
+   7. Golden Five-Spice  Sticky Chicken             | Chicken Thigh & Leg       | [saludable]
+   8. Poppy Seed Dressing                           | Salad Dressings           | [3 sello(s)]
+   9. Curried Mayonnaise                            | Salad Dressings           | [3 sello(s)]
+  10. Caprese Salad With Walnut Pesto               | Salad Dressings           | [1 sello(s)]
+
+Usuario 301111 | Cluster: Vegetable | Diversidad: 0.40 | Novedad: 0.00
+   1. Nif's Lightened Artichoke Dip                 | Vegetable                 | [1 sello(s)]
+   2. Cucumber and Fennel With Orange Mint Dressing | Vegetable                 | [2 sello(s)]
+   3. Korean Hot Pot (Sin-Su-Lo)                    | Vegetable                 | [1 sello(s)]
+   4. Sylvia's Sweet Potato Casserole               | Vegetable                 | [1 sello(s)]
+   5. Drunken Grilled Asparagus                     | Vegetable                 | [1 sello(s)]
+   6. Tonkatsu (Japanese Pork Cutlet)               | Pork                      | [saludable]
+   7. Dill Vegetable Dip                            | Vegetable                 | [3 sello(s)]
+   8. Jalape&ntilde;o and Cheese Topped  Eggplant   | Vegetable                 | [1 sello(s)]
+   9. African Chicken in Spicy Red Sauce            | Poultry                   | [saludable]
+  10. Twisted Ranch Baked Potato Casserole          | Potato                    | [saludable]
+
+Usuario 715173 | Cluster: Potato | Diversidad: 0.80 | Novedad: 0.00
+   1. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]
+   2. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+   3. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+   4. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+   5. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+   6. Pancakes                                      | Breakfast                 | [2 sello(s)]
+   7. &quot;Whatever Floats Your Boat&quot; Brownie | Bar Cookie                | [3 sello(s)]
+   8. Crock-Pot Chicken With Black Beans &amp; Crea | One Dish Meal             | [saludable]
+   9. Yes, Virginia There is a Great Meatloaf       | Meatloaf                  | [2 sello(s)]
+  10. Oatmeal Raisin Cookies                        | Drop Cookies              | [3 sello(s)]
+
+Usuario 493738 | Cluster: Dessert | Diversidad: 0.40 | Novedad: 0.00
+   1. Baked Parmesan Tilapia                        | Tilapia                   | [saludable]
+   2. Pumpkin Cream Cheese Swirl Muffins            | Dessert                   | [3 sello(s)]
+   3. Ice Cubes                                     | Beverages                 | [saludable]
+   4. Orange Cream-Dream Sandwiches                 | Dessert                   | [3 sello(s)]
+   5. Oranges in Red Wine - Naranjas Al Vino Tinto  | Dessert                   | [1 sello(s)]
+   6. Vanilla Wafer Cake                            | Dessert                   | [3 sello(s)]
+   7. Vanilla Pudding Pastry Filling Fast           | Dessert                   | [2 sello(s)]
+   8. Crispy Oven-Fried Cod Fish                    | Brunch                    | [saludable]
+   9. Giant Eclair Dessert                          | Dessert                   | [4 sello(s)]
+  10. Cinnamon Heart Cookies - &quot;palmiers&quot; | Dessert                   | [3 sello(s)]
+
+Usuario 1370099 | Cluster: Steak | Diversidad: 0.40 | Novedad: 0.00
+   1. Round Steak Roll-Ups                          | Steak                     | [3 sello(s)]
+   2. Crock-Pot Chicken With Black Beans &amp; Crea | One Dish Meal             | [saludable]
+   3. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+   4. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+   5. Steak With Wine Sauce and Potato Gratin       | Steak                     | [1 sello(s)]
+   6. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+   7. Grilled Green Chile Stuffed Pepper Steaks Wra | Steak                     | [2 sello(s)]
+   8. Filet Mignon With Demi Glaze Sauce            | Steak                     | [2 sello(s)]
+   9. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+  10. Brandied Filet Mignon                         | Steak                     | [2 sello(s)]
+
+Usuario 222478 | Cluster: Lunch/Snacks | Diversidad: 0.60 | Novedad: 0.00
+   1. Comfort Classic Cheesy Broccoli               | Lunch/Snacks              | [1 sello(s)]
+   2. Awesome Grilled Cheese Sandwich               | Lunch/Snacks              | [2 sello(s)]
+   3. Doreen's Savoury Puffs                        | Lunch/Snacks              | [3 sello(s)]
+   4. Tonkatsu (Japanese Pork Cutlet)               | Pork                      | [saludable]
+   5. Spaghetti Alla Carlofortina (Spaghetti With F | Lunch/Snacks              | [1 sello(s)]
+   6. Low Fat No Red Meat Cheeseburger              | Lunch/Snacks              | [1 sello(s)]
+   7. African Chicken in Spicy Red Sauce            | Poultry                   | [saludable]
+   8. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+   9. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]
+  10. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+
+Usuario 161822 | Cluster: One Dish Meal | Diversidad: 0.80 | Novedad: 0.20
+   1. Bourbon Chicken                               | Chicken Breast            | [1 sello(s)]
+   2. &quot;Whatever Floats Your Boat&quot; Brownie | Bar Cookie                | [3 sello(s)]
+   3. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
+   4. To Die for Crock Pot Roast                    | One Dish Meal             | [saludable]
+   5. Pancakes                                      | Breakfast                 | [2 sello(s)]
+   6. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+   7. Yes, Virginia There is a Great Meatloaf       | Meatloaf                  | [2 sello(s)]
+   8. Jo Mama's World Famous Spaghetti              | Spaghetti                 | [1 sello(s)]
+   9. Crock-Pot Chicken With Black Beans &amp; Crea | One Dish Meal             | [saludable]
+  10. Oatmeal Raisin Cookies                        | Drop Cookies              | [3 sello(s)]
+
+Usuario 41912 | Cluster: One Dish Meal | Diversidad: 0.50 | Novedad: 0.00
+   1. Saut&eacute;ed Shrimp and Zucchini &ndash; Ww | One Dish Meal             | [1 sello(s)]
+   2. Kittencal's Italian Melt-In-Your-Mouth Meatba | Meat                      | [saludable]
+   3. Super Deluxe Pot Roast                        | One Dish Meal             | [1 sello(s)]
+   4. Panera's Cream Cheese Potato Soup             | Winter                    | [saludable]
+   5. Taco Chicken Rice Casserole                   | One Dish Meal             | [2 sello(s)]
+   6. Cheddar Steak                                 | One Dish Meal             | [2 sello(s)]
+   7. Pink Shrimp Sauce for Pasta                   | One Dish Meal             | [2 sello(s)]
+   8. My Family's Favorite Sloppy Joes (Pizza Joes) | Lunch/Snacks              | [saludable]
+   9. Thai Chicken and Pasta                        | One Dish Meal             | [1 sello(s)]
+  10. Creamy Cajun Chicken Pasta                    | Chicken Breast            | [1 sello(s)]
